@@ -1,0 +1,5 @@
+/home/diego/dev/dolomiti/interview/build/debug/CMakeFiles/edit_cache.dir
+/home/diego/dev/dolomiti/interview/build/debug/CMakeFiles/rebuild_cache.dir
+/home/diego/dev/dolomiti/interview/build/debug/p1/CMakeFiles/robot_move.dir
+/home/diego/dev/dolomiti/interview/build/debug/p1/CMakeFiles/edit_cache.dir
+/home/diego/dev/dolomiti/interview/build/debug/p1/CMakeFiles/rebuild_cache.dir
